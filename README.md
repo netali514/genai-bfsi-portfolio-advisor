@@ -28,3 +28,4 @@ streamlit run streamlit_app/genai_streamlit_investor_advisor.py
 ```
 
 ✅ No API keys. No cloud. Just open GenAI.
+# genai-bfsi-portfolio-advisor
